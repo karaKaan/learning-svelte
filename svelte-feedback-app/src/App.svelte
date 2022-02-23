@@ -1,3 +1,4 @@
+<!-- here is your js code -->
 <script>
 	import FeedbackList from './components/FeedbackList.svelte'
 	import FeedbackStats from './components/FeedbackStats.svelte'
@@ -9,5 +10,6 @@
 	<FeedbackForm />
 	<FeedbackStats />
 	<FeedbackList />
+
 </main>
 
